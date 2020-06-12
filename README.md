@@ -29,5 +29,5 @@ $ docker run -v $(pwd):/home/frontistr frontistr:V46
 ## Sample Jobs on Rescale (with Singularity)
 - FrontISTR Ver.4.6
   - [platform.rescale.com](https://platform.rescale.com/jobs/cxEtT/)
-  - [platform.rescale.jp](https://platform.rescale.jp/jobs/Lzcmhb/)
+  - [platform.rescale.jp](https://platform.rescale.jp/jobs/vjuWm/)
   - [kr.rescale.com](https://kr.rescale.com/jobs/xmNKc/)
